@@ -19,7 +19,7 @@ spring:
     activate:
       on-profile: docker
 server:
-  port: 8083
+  port: 8084
 eureka:
   client:
     serviceUrl:
